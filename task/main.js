@@ -151,8 +151,11 @@ $(document).ready(function(){
     });
 
 
-
-
+//owl carousle##########
+$(document).ready(function(){
+  $("#owl-example").owlCarousel({"autoplay": true,
+});
+});
 
 
 
