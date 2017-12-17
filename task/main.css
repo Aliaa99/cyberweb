@@ -1004,6 +1004,27 @@ p {
    display: none;
 }
 .
+/*finish ####################*/
+/*start owl carousle###########33*/
+
+.single-testimonial {
+    position: relative;
+    padding: 15px 20px;
+    border: 1.5px solid #bbb;
+}
+.single-testimonial .t-image img {
+    max-width: 90px;
+    height: 90px;
+}
+.single-testimonial p.comp {
+    font-style: italic;
+    color: #0099e6;
+    font-size: 14px;
+    text-align: center;
+
+}.
+
+
 
 
 
